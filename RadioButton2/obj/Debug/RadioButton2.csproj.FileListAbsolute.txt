@@ -1,0 +1,20 @@
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\RadioButton2\RadioButton2\bin\Debug\RadioButton2.exe.config
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\RadioButton2\RadioButton2\bin\Debug\RadioButton2.exe
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\RadioButton2\RadioButton2\bin\Debug\RadioButton2.pdb
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\RadioButton2\RadioButton2\obj\Debug\RadioButton2.Form1.resources
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\RadioButton2\RadioButton2\obj\Debug\RadioButton2.Properties.Resources.resources
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\RadioButton2\RadioButton2\obj\Debug\RadioButton2.csproj.GenerateResource.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\RadioButton2\RadioButton2\obj\Debug\RadioButton2.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\RadioButton2\RadioButton2\obj\Debug\RadioButton2.exe
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Form Applications\RadioButton2\RadioButton2\obj\Debug\RadioButton2.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\RadioButton2\RadioButton2\bin\Debug\RadioButton2.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\RadioButton2\RadioButton2\bin\Debug\RadioButton2.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\RadioButton2\RadioButton2\bin\Debug\RadioButton2.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\RadioButton2\RadioButton2\obj\Debug\RadioButton2.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\RadioButton2\RadioButton2\obj\Debug\RadioButton2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\RadioButton2\RadioButton2\obj\Debug\RadioButton2.Form1.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\RadioButton2\RadioButton2\obj\Debug\RadioButton2.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\RadioButton2\RadioButton2\obj\Debug\RadioButton2.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\RadioButton2\RadioButton2\obj\Debug\RadioButton2.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\RadioButton2\RadioButton2\obj\Debug\RadioButton2.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\RadioButton2\RadioButton2\obj\Debug\RadioButton2.pdb
